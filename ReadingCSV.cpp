@@ -1,5 +1,4 @@
-//C#读取CSV文件，并利用From控制输出指定位置的数据。
-
+﻿//C#读取CSV文件，并利用From控制输出指定位置的数据。2018.8更新
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
